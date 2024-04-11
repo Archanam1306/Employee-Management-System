@@ -17,7 +17,6 @@ Usage:
  4) Follow the on-screen instructions to interact with the Employee Management System.
 
     
-Contributing
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
   
