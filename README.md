@@ -3,9 +3,9 @@
   It provides functionalities for adding, viewing, and deleting employee details.
 
 ## Features:
-  Add employee records including name, age, department, designation, and salary.
-  View employee details.
-  Delete employee records based on retirement age (58 years).
+  1) Add employee records including name, age, department, designation, and salary.
+  2) View employee details.
+  3) Delete employee records based on retirement age (58 years).
 
 ## Usage:
  1) Clone the repository to your local machine:
