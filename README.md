@@ -2,12 +2,12 @@
   This Employee Management System is a Python program that allows users to manage employee records.
   It provides functionalities for adding, viewing, and deleting employee details.
 
-## Features:
+## Features:-
   1) Add employee records including name, age, department, designation, and salary.
   2) View employee details.
   3) Delete employee records based on retirement age (58 years).
 
-## Usage:
+## Usage:-
  1) Clone the repository to your local machine:
      git clone https://github.com/Archanam1306/Employee-Management-System.git
  2) Navigate to the project directory:
